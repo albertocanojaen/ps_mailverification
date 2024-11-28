@@ -1,0 +1,10 @@
+Hello {firstname} {lastname},
+
+Thank you for registering on {shop_name}. Please verify your account by clicking the link below:
+
+{verification_link}
+
+If you did not register on our website, please ignore this email.
+
+Best regards,
+{shop_name}
